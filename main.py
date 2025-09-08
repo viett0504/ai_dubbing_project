@@ -2,7 +2,7 @@
 from transcribe import transcribe_file
 
 # ----- CẤU HÌNH CỐ ĐỊNH -----
-AUDIO        = "demo2.mp4"   # đổi thành file bạn muốn
+AUDIO        = "video_demo.mp4"   # đổi thành file bạn muốn
 MODEL        = "large-v3"            # "small" / "medium" / "large-v3"
 LANGUAGE     = "vi"               # None = autodetect
 DEVICE       = "cpu"
